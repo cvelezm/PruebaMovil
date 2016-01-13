@@ -1,2 +1,0 @@
-# PruebaMovil
-Prueba subida masiva
